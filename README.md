@@ -1,5 +1,6 @@
+![logo](https://github.com/swapnil0176/swapnil0176/blob/main/IMG_20240824_115315.png)
 <h1 align="center">Hi 👋, I'm Swapnil Tawhare</h1>
-<img src="" alt="Swapnil Tawhare">
+
 <h3 align="center">A passionate Backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnil0176&label=Profile%20views&color=0e75b6&style=flat" alt="swapnil0176" /> </p>
