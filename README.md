@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Swapnil Tawhare</h1>
 
 <h3 align="center">A passionate Backend developer from India</h3>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40oninross%2Fdo-full-stack-developers-exist-or-are-they-just-wishful-thinking-2b7f5863af63&psig=AOvVaw0BCUKs7DdJt2LW4vGV5AQ5&ust=1724571481868000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJCX7cePjYgDFQAAAAAdAAAAABAE">
+<img src="https://github.com/swapnil0176/swapnil0176/blob/main/1_yw0TnheAGN-LPneDaTlaxw.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnil0176&label=Profile%20views&color=0e75b6&style=flat" alt="swapnil0176" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swapnil0176" alt="swapnil0176" /></a> </p>
