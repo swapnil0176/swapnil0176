@@ -1,4 +1,4 @@
-![logo](https://github.com/swapnil0176/swapnil0176/blob/main/IMG_20240824_115315.png)
+![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40oninross%2Fdo-full-stack-developers-exist-or-are-they-just-wishful-thinking-2b7f5863af63&psig=AOvVaw0BCUKs7DdJt2LW4vGV5AQ5&ust=1724571481868000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJCX7cePjYgDFQAAAAAdAAAAABAE)
 <h1 align="center">Hi 👋, I'm Swapnil Tawhare</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 <img align="right" width="400" src="https://images.app.goo.gl/72iyzEGA5MJdgj998">
