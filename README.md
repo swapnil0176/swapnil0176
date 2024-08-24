@@ -1,7 +1,7 @@
-<img src="https://images.app.goo.gl/72iyzEGA5MJdgj998">
+![logo](https://github.com/swapnil0176/swapnil0176/blob/main/IMG_20240824_115315.png
 <h1 align="center">Hi 👋, I'm Swapnil Tawhare</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
-<img align="center" width="400" src="https://github.com/swapnil0176/swapnil0176/blob/main/IMG_20240824_115315.png">
+<img align="center" width="400" src="https://images.app.goo.gl/72iyzEGA5MJdgj998">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnil0176&label=Profile%20views&color=0e75b6&style=flat" alt="swapnil0176" /> </p>
 
