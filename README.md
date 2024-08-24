@@ -5,8 +5,6 @@
 <img src="https://github.com/swapnil0176/swapnil0176/blob/main/1_yw0TnheAGN-LPneDaTlaxw.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnil0176&label=Profile%20views&color=0e75b6&style=flat" alt="swapnil0176" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swapnil0176" alt="swapnil0176" /></a> </p>
-
 - 🔭 I’m currently working on [Bank Application](https://github.com/swapnil0176/Bank_Application_Backend.git)
 
 - 🌱 I’m currently learning *Hibernate, Spring Boot & Security*
